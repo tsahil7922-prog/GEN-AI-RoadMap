@@ -280,6 +280,7 @@ GENAI APPLICATION DEVELOPER
 │   ├── Security Groups
 │   ├── Load Balancer
 │   ├── CloudFront
+        basic networking
 │   └── Bedrock
 │
 ├── 19. Production GenAI
