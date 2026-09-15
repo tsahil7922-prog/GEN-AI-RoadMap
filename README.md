@@ -25,6 +25,7 @@ GENAI APPLICATION DEVELOPER
      Built In Method
      string
      NumPy Pandas 
+     decorators
 
      
 │
