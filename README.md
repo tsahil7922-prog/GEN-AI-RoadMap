@@ -19,6 +19,14 @@ GENAI APPLICATION DEVELOPER
 │   ├── OOP
 │   ├── async / await
 │   └── HTTP / API basics
+     ├── Context 
+     Collection
+     Functool
+     Built In Method
+     string
+     NumPy Pandas 
+
+     
 │
 ├── 2. FastAPI
 │   ├── FastAPI basics
